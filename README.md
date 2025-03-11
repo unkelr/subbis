@@ -103,7 +103,7 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 ## 📞 Contact
 
-Created by [@username](https://github.com/unkelr) - feel free to reach out!
+Created by [@unkelr](https://github.com/unkelr) - feel free to reach out!
 
 ---
 
